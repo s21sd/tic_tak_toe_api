@@ -25,5 +25,5 @@ A simple Node.js & Express-based REST API for playing Tic Tac Toe against a basi
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/tic-tac-toe-api.git
-cd tic-tac-toe-api
+git clone https://github.com/s21sd/tic_tak_toe_api.git
+cd tic_tac_toe_api
